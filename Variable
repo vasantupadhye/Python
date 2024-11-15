@@ -1,2 +1,8 @@
+#integer
 Age = input("25")
-print(age);
+
+#float
+weight = 62.5
+
+#string
+God = krishna
