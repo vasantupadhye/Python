@@ -1,2 +1,2 @@
-Age = 25
+Age = input("25")
 print(age);
