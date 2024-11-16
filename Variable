@@ -16,3 +16,10 @@ Temp = 25
 
 print(f"Today is {Month} {Day} and its {temp} outside")
 
+#Boolean
+the_dog_is_playing = True
+
+if the_dog_is_playing:
+ print("the dog is playing")
+else:
+ print("the dog is not playing")
