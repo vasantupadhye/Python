@@ -1,8 +1,18 @@
+#TYPES OF VARIABLE
 #integer
-Age = input("25")
+Age = 25
 
 #float
 weight = 62.5
 
 #string
 God = krishna
+
+#Variables in strings
+
+Day = 18
+Month = september
+Temp = 25
+
+print(f"Today is {Month} {Day} and its {temp} outside")
+
