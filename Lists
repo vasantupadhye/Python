@@ -9,3 +9,9 @@ fav_number.append(18)
 
 fav_number.insert(5,16)
 print (fav_number)
+
+#game insert
+fav_game = ["cricket", "volleyball"]
+fav_game.insert(1, "hockey")
+print(fav_game)
+print(len(fav_game))
