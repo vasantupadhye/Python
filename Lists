@@ -22,4 +22,12 @@ fav_game.insert[3, "carrom"]
 print(fav_game)
 prnt(len(fav_game)
 
+#delete game
+fav_game = ["volleyball", "cricket", "football", "chess"]
+fav_game.append("badminton")
+print(fav_game)
+fav_game.insert(1, "basketball")
+print(fav_game)
+del(fav_game[2])
+print(fav_game)
 
