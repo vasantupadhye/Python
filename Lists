@@ -17,7 +17,7 @@ fav_game.insert(1, "hockey")
 print(fav_game)
 print(len(fav_game))
 
-#gane insert
+#game insert
 fav_game = ["volleyball", "cricket", "football", "chess"]
 fav_game.insert[3, "carrom"]
 print(fav_game)
