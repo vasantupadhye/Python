@@ -3,11 +3,12 @@ fav_number = [1,3,5,7,9]
 print(fav_number[2])
 
 #insert & length
-fav_number = [1,3,5,7,9]
+fav_number = [1,3,7,9]
 print (len(fav_number))
 fav_number.append(18)
 
-fav_number.insert(5,16)
+fav_number = [1,3,7,9]
+fav_number.insert(2,5)
 print (fav_number)
 
 #game insert
